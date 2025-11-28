@@ -1,4 +1,4 @@
-# Standings for influencer1 as of 2025-11-28 09:11:15 UTC
+# Standings for influencer4 as of 2025-11-28 09:11:15 UTC
 
 **Total Participants:** 1
 
@@ -6,7 +6,7 @@
 
 | Rank | Score | Name |
 | :- | :- | :- |
-| 1 | 30 | Shiny Filler |
+| 1 | 6 | Alma Alma |
 
 ---
 *Standings created by tournaments datasource generation tool*
